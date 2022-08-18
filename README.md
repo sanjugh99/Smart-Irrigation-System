@@ -2,7 +2,7 @@
 
 ##Objectives:
 
-To develop an IOT based automatic irrigation system having a low-cost equipment.
-To monitor moisture contents at different conditions
-To improve the system by using Mobile Phone App
-To improve the system by using WSN (Wireless Sensor Network)
+1. To develop an IOT based automatic irrigation system having a low-cost equipment.
+2. To monitor moisture contents at different conditions
+3. To improve the system by using Mobile Phone App
+4. To improve the system by using WSN (Wireless Sensor Network)
